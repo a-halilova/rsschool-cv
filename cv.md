@@ -40,5 +40,17 @@ alert( new A() == new B() ); // true
 
 ```
 ### Work experience:
+* Minsk Metro (since 2012 - till now) - software engineer; 
+
+### Education and courses:
+* BSUIR - Automated information processing systems (2006-2012);
+* BSU Institute of Business - WEB design (2020-2022);
+
+### Languages:
+* Belorussian, Russian - native;
+* English level - B2.
+
+
+
 
 
